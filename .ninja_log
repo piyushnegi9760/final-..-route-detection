@@ -1,0 +1,12 @@
+# ninja log v7
+133	3841	8148099349377111	CMakeFiles/logistics_router.dir/src/MapRenderer.cpp.obj	429092897f86fcb5
+39	3981	8148099348413937	CMakeFiles/logi_core.dir/src/RoadNetwork.cpp.obj	246273bd4b704608
+78	4655	8148099348806463	CMakeFiles/logi_core.dir/src/DeliveryManager.cpp.obj	d4bf7033d3dcb215
+149	4897	8148099349640270	CMakeFiles/core_tests.dir/tests/core_test.cpp.obj	ae295084326e7ba8
+118	5735	8148099349223784	CMakeFiles/logistics_router.dir/src/main.cpp.obj	357a66cb9a59db90
+4661	13288	8148099394649453	liblogi_core.a	da4f34232918f12b
+13289	13728	8148099480896511	core_tests.exe	746631e330383c77
+103	15136	8148099349068549	CMakeFiles/logi_io.dir/src/Persistence.cpp.obj	d03c3e094348b2f7
+90	18359	8148099348940219	CMakeFiles/logi_io.dir/src/OverpassClient.cpp.obj	d3bd862ffd39be5e
+18363	18644	8148099531649396	liblogi_io.a	25fd43ea6832fcad
+18644	19034	8148099534457455	logistics_router.exe	21f612cfa17f446
